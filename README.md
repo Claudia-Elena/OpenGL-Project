@@ -1,5 +1,5 @@
 # OpenGL-Project
-Graphic Processing Systems , 4-th year
+## Graphic Processing Systems , 4-th year
 
 -----
 # Setup

@@ -8,3 +8,4 @@
 - Tutorial: https://www.youtube.com/watch?v=OR4fNpBjmq8
 - Download lib for Visual Studio: https://www.glfw.org/download.html
 - Documentation: https://www.glfw.org/documentation.html
+- Basic OpenGL Tutorials: http://www.opengl-tutorial.org/beginners-tutorials/

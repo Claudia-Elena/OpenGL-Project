@@ -2,7 +2,7 @@
 ## Graphic Processing Systems , 4-th year
 
 -----
-# Setup
+## Setup
 -----
 
 - Tutorial: https://www.youtube.com/watch?v=OR4fNpBjmq8
@@ -11,7 +11,7 @@
 
 
 -----
-# Example Output
+## Example Output
 -----
 
 ![image](https://user-images.githubusercontent.com/72825756/223539807-1b107ab7-abf7-499e-ad31-f066648d2e16.png)
